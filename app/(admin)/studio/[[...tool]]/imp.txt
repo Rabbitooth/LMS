@@ -1,1 +1,1 @@
-
+create a page.tsx for sanity
